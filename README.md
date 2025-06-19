@@ -2,7 +2,8 @@
 
 This project is a real-time chat application built using **React** and **Node.js (Express + Socket.io)**. It was developed as part of a Udemy course and utilizes **socket.io** for real-time communication.
 
-**Live Demo:** [chat-app-production-wtlb.onrender.com](chat-app-production-wtlb.onrender.com)
+## Live Demo
+[Visit the Live Site](https://chat-app-production-wtlb.onrender.com)
 
 ---
 
